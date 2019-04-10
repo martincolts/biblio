@@ -1,0 +1,9 @@
+entity Book {
+	id String
+	name String
+    editorial String
+    toked Boolean
+    person String
+}
+
+
