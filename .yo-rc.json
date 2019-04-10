@@ -1,0 +1,37 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.infor.tandil",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "biblio",
+        "packageName": "com.infor.tandil",
+        "packageFolder": "com/infor/tandil",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "no",
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "gradle",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "YmE1NDY5Y2Y0N2NlY2ZmYWVlZTI4YzE4M2EwOWQzZGUxZTcxMWYxNDZlNGVmYWQ3ZmEyN2M2NmQ4Mjk0NWViOGQyMzNjOWVlMGUwNDk1YzJjYjA4NzQyN2M2ZTVhY2U5MGJjOGI4YWE2YThlYjVlOTQ0OGQ2ZmE3N2JiMTUzODI=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en", "es"]
+    }
+}
